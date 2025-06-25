@@ -1,2 +1,3 @@
-# empty101
-This course explores the basic concepts, methodologies, and key issues in artificial intelligence (AI), providing the foundational knowledge necessary for understanding AI and its implications.
+# The Heart of AI
+
+This course explores the basic concepts, methodologies, and key issues in artificial intelligence (AI), providing the foundational knowledge necessary for understanding AI and its implications. NICE!
